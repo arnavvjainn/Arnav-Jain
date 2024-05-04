@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: "./Arnav-Jain",
+    base: "./ArnavJain",
     build: {
         minify: "terser",
     },
